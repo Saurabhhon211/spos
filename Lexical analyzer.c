@@ -1,9 +1,4 @@
-/*
-	NAME:: LUNGADE KIRAN SANJAY
-	ROLL NO.:: 39
-	PRACTICAL NO.:: 02
-	TITLE:: LEXICAL ANALYZER
-*/
+
 
 /*
 #include<stdio.h>
